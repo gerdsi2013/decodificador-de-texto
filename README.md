@@ -1,17 +1,15 @@
 # Alura Challenge - Oracle ONE
 
 ## Decodificador de texo
-Challenge Oracle ONE Sprint 01:
-Construa um decodificador de texto com Javascript
+Challenge Oracle ONE 
 
 
 
-### Descrição do Projeto;
+## Descri do Projeto
 È uma aplicação  que criptografar textos, assim você poderá trocar mensagens secretas com outras pessoas que saibam o segredo da criptografia utilizada.
 
 
-### Funcionalidades;
-
+## Funcionalidas
 As "chaves" de criptografia que utilizaremos são:
 A letra "e" é convertida para "enter"
 A letra "i" é convertida para "imes"
@@ -31,3 +29,11 @@ A página deve ter campos para inserção do texto a ser criptografado ou descri
 O resultado deve ser exibido na tela.
 - Um botão que copie o texto criptografado/descriptografado para a área de transferência - ou seja, que tenha a mesma funcionalidade do ctrl+C ou da opção "copiar" do menu dos aplicativos.
 
+## Acesso ao Projeto
+
+## Tecnologia utilizada
+- Html
+-  Css
+- JAVASCRIPT
+
+## Layout do Projeto
