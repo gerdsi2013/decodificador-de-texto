@@ -4,13 +4,29 @@
 ## Decodificador de texo
 Challenge Oracle ONE 
 
+## Índice 
+* [Badges](#badges)
+* [Índice](#índice)
+* [Descrição do Projeto](#descrição-do-projeto)
+* [Status do Projeto](#status-do-projeto)
+* [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
+* [Acesso ao Projeto](#acesso-ao-projeto)
+* [Tecnologias utilizadas](#tecnologias-utilizadas)
+* [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras)
 
 
-## Descri do Projeto
+## Badges
+![Html](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white) ![Css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white
+) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
+)
+
+## Descrição do Projeto
 È uma aplicação  que criptografar textos, assim você poderá trocar mensagens secretas com outras pessoas que saibam o segredo da criptografia utilizada.
 
+## Status do Projeto
+![CONCLUIDO](http://img.shields.io/static/v1?label=STATUS&message=%20CONCLUIDO&color=GREEN&style=for-the-badge)
 
-## Funcionalidas
+## Funcionalidades e Demonstração da Aplicação
 As "chaves" de criptografia que utilizaremos são:
 A letra "e" é convertida para "enter"
 A letra "i" é convertida para "imes"
@@ -32,10 +48,12 @@ O resultado deve ser exibido na tela.
 
 ## Acesso ao Projeto
 
-## Tecnologia utilizada
+<https://decodificador-de-texto.vercel.app/>
+## Tecnologias utilizadas
 - Html
 -  Css
 - JAVASCRIPT
 
-## Layout do Projeto
->>>>>>> fe30c4a98877e6cddad9faf0b85bef809e0e947b
+## pessoas-desenvolvedoras
+<a href="https://github.com/gerdsi2013" target="_blank"><img src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"><a/>
+
