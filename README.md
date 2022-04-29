@@ -1,7 +1,7 @@
 
 # Alura Challenge - Oracle ONE
 ## Decodificador de texo
-Challenge One - NextEducation
+Challenge One - Next Education
 
 ## Índice 
 * [Badges](#badges)
@@ -46,10 +46,7 @@ A página deve ter campos para inserção do texto a ser criptografado ou descri
 O resultado deve ser exibido na tela.
 - Um botão que copie o texto criptografado/descriptografado para a área de transferência - ou seja, que tenha a mesma funcionalidade do ctrl+C ou da opção "copiar" do menu dos aplicativos.
 
-<<<<<<< HEAD
 
-<img src="github/dektop.png" alt="imagem do tela tamnho desktop">
-=======
  ## Layout
 
 ##### Desktop
@@ -67,11 +64,13 @@ O resultado deve ser exibido na tela.
 
 
 
->>>>>>> 8e35bbd0c9e8ba02c8731cf2841958fb4dbbadd4
+
 
 ## Acesso ao Projeto
 
 <https://decodificador-de-texto.vercel.app/>
+
+<https://gerdsi2013.github.io/decodificador-de-texto/>
 ## Tecnologias utilizadas
 - Html
 -  Css
