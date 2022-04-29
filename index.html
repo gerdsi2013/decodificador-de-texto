@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Desafio | Decodificador de texto</title>
+    <!-- fontes -->
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https: //fonts.googleapis.com/css2? family= Inter:wght@400;700 & display=swap"
+      rel="stylesheet"
+    />
+
+    <link rel="stylesheet" href="css/styles.css" />
+  </head>
+  <body>
+    <main id="container">
+      <section id="content">
+        <div class="content-wrap">
+          <div id="img">
+            <img src="/assets/img/logo.png" alt="logo da alura" />
+          </div>
+
+          <div class="title">
+            <h1>Challenge Oracle ONE</h1>
+          </div>
+
+          <textarea
+            id="textarea"
+            name="textarea"
+            type="text"
+            placeholder="Digite seu texto"
+          ></textarea>
+
+          <div class="wrap">
+            <span class="wrap-model">
+              <img
+                src="/assets/img/icon-alert.png"
+                alt="icone que alerta apenas letra minúsculas e sem acentos"
+              />
+              <h4>Apenas letras minúsculas e sem acentos.</h4>
+            </span>
+            <div class="buttons">
+              <button id="buttons-all" class="btn-crypt" type="submit">
+                Criptografar
+              </button>
+              <button id="buttons-all" class="btn-descrypt" type="submit">
+                Descriptografar
+              </button>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <article id="article">
+        <p id="translatedtext"></p>
+        <div class="translationcard visible">
+          <img
+            src="/assets/img/ilustration.svg"
+            alt="image de uma garoto com uma lupa"
+          />
+          <h4>Nenhuma mensagem encontrada</h4>
+          <p>Digite um texto que você deseja criptografar ou descriptografar</p>
+        </div>
+
+        <button id="buttons-all" class="btn-copy isVisible">Copiar</button>
+      </article>
+    </main>
+    <footer id="footer">
+      <div class="networks">
+        <ul>
+          <li>
+            <a
+              href="https://www.linkedin.com/in/gerdivaldossilva/"
+              target="_blank"
+            >
+              <img
+                src="/assets/icons/linkedin2.svg"
+                alt="icone que ao clicado é direcionado ao linkedin"
+              />
+            </a>
+          </li>
+          <li>
+            <a href="https://github.com/gerdsi2013" target="_blank">
+              <img
+                src="/assets/icons//github.svg"
+                alt="icone que ao clicado é direcionado ao github"
+              />
+            </a>
+          </li>
+          <li>
+            <a href="https://www.instagram.com/gerdssilva/" target="_blank">
+              <img
+                src="/assets/icons//instagram.svg"
+                alt="icone que ao clicado é direcionado ao instagram"
+              />
+            </a>
+          </li>
+        </ul>
+      </div>
+      <div class="title-footer">
+        <p>&copy; 2022 - Gerdivaldo dos Santos Silva.</p>
+      </div>
+    </footer>
+  </body>
+
+  <script src="js/script.js"></script>
+</html>
