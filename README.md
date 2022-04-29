@@ -2,7 +2,7 @@
 # Alura Challenge - Oracle ONE
 
 ## Decodificador de texo
-Challenge Oracle ONE 
+Challenge One - NextEducation
 
 ## Índice 
 * [Badges](#badges)
@@ -10,6 +10,7 @@ Challenge Oracle ONE
 * [Descrição do Projeto](#descrição-do-projeto)
 * [Status do Projeto](#status-do-projeto)
 * [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
+* [Layout](#layout)
 * [Acesso ao Projeto](#acesso-ao-projeto)
 * [Tecnologias utilizadas](#tecnologias-utilizadas)
 * [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras)
@@ -45,6 +46,24 @@ gaitober" => "gato"
 A página deve ter campos para inserção do texto a ser criptografado ou descriptografado, e a pessoa usuária deve poder escolher entre as duas opções
 O resultado deve ser exibido na tela.
 - Um botão que copie o texto criptografado/descriptografado para a área de transferência - ou seja, que tenha a mesma funcionalidade do ctrl+C ou da opção "copiar" do menu dos aplicativos.
+
+ ## Layout
+
+##### Desktop
+![dektop](https://user-images.githubusercontent.com/25357773/165995735-df49e319-591a-4fed-97b8-419f27c40bc9.png)
+#### Desktop
+![desktop2](https://user-images.githubusercontent.com/25357773/165998348-92c948df-c211-48f6-ba87-a93c5b5a5ec6.png)
+
+
+##### Tablet
+![tablet](https://user-images.githubusercontent.com/25357773/165996345-2166156c-6aa3-4921-8718-8aac05896856.png)
+
+##### Mobile
+![mobile](https://user-images.githubusercontent.com/25357773/165996511-a3141e3b-0189-44a6-9407-e69d48370650.png)
+
+
+
+
 
 ## Acesso ao Projeto
 
